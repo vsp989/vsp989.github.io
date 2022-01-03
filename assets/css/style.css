@@ -1,8 +1,8 @@
 .profile-pic {
   position: relative;
-  max-width:130px;
-  max-height:130px;
-  width: 130px;
+  max-width:100px;
+  max-height:100px;
+  width: 100px;
   height: auto;
   overflow: hidden;
   /* display: inline-block; */
